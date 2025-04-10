@@ -1,3 +1,9 @@
 whisper
 ffmpeg-python
 streamlit
+fastapi 
+uvicorn 
+websockets 
+faster-whisper 
+numpy 
+pydantic
